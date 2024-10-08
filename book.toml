@@ -1,0 +1,6 @@
+[book]
+authors = ["Konosuke Sakai"]
+language = "en"
+multilingual = false
+src = "src"
+title = "MySQL 8.4 Tutorial"
